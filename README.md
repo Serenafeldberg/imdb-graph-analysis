@@ -22,14 +22,6 @@ The project uses custom graph structures, a heap-based priority queue, and TSV p
 
 ---
 
-## 🖼️ Preview
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/IMDB_Logo_2016.svg/512px-IMDB_Logo_2016.svg.png" width="150" alt="IMDb logo" />
-
-_(Optional: You can replace this logo with a real image of your graph output or notebook visualization later)_
-
----
-
 ## 🗃️ Dataset
 
 IMDb filtered data:
