@@ -64,7 +64,7 @@ This project was developed using:
 **Serena Feldberg**  
 🎓 AI Engineering student at **Universidad de San Andrés**  
 📧 [serenafeldberg@gmail.com](mailto:serenafeldberg@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/serenafeldberg/)
+🔗 [LinkedIn](https://www.linkedin.com/in/serena-feldberg-8901201b6/)
 
 ---
 
