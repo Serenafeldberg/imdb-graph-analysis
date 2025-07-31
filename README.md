@@ -47,6 +47,18 @@ python grafo_b.py
 ```
 ---
 
+### 🧩 Sudoku Solver (TP Section)
+
+As part of the assignment, this module includes a Sudoku validation and solving component.
+
+- Reads and processes 9x9 Sudoku boards
+- Applies constraint logic to determine valid board states
+- Can be used as a standalone module:  
+  ```bash
+  python sudoku.py
+
+---
+
 ## 🛠️ Technologies
 
 This project was developed using:
